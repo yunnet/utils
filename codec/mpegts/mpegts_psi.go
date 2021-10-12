@@ -3,7 +3,7 @@ package mpegts
 import (
 	"errors"
 	"fmt"
-	"github.com/Monibuca/utils/v3"
+	"github.com/yunnet/utils"
 	"io"
 	"io/ioutil"
 )
