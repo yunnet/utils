@@ -1,9 +1,8 @@
 package codec
 
 import (
+	"github.com/yunnet/utils"
 	"io"
-
-	"github.com/Monibuca/utils/v3"
 )
 
 const (
